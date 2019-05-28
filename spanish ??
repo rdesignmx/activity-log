@@ -1,0 +1,494 @@
+# Copyright (C) 2019 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: ARYO Activity Log\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/activity-log\n"
+"POT-Creation-Date: 2019-05-28 13:00-0000\n"
+"PO-Revision-Date: 2019-05-28 11:24\n"
+"Last-Translator: Román Ernesto Pérez Dominguez <rmnperez.mx@gmail.com>\n"
+"Language-Team: Román Ernesto Pérez Dominguez <rmnperez.mx@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x;_n:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"Language: es_MX\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../classes/class-aal-activity-log-list-table.php:82
+msgid "Activities"
+msgstr "Actividades"
+
+#: ../classes/class-aal-activity-log-list-table.php:92
+msgid "Date"
+msgstr "Día"
+
+#: ../classes/class-aal-activity-log-list-table.php:93
+msgid "Author"
+msgstr "Usuario"
+
+#: ../classes/class-aal-activity-log-list-table.php:94
+msgid "IP"
+msgstr "IP"
+
+#: ../classes/class-aal-activity-log-list-table.php:95
+msgid "Type"
+msgstr "Tipo"
+
+#: ../classes/class-aal-activity-log-list-table.php:96
+msgid "Label"
+msgstr "Etiqueta"
+
+#: ../classes/class-aal-activity-log-list-table.php:97
+msgid "Action"
+msgstr "Acción"
+
+#: ../classes/class-aal-activity-log-list-table.php:98
+msgid "Description"
+msgstr "Descripción"
+
+#: ../classes/class-aal-activity-log-list-table.php:118
+#, php-format
+msgid "%s ago"
+msgstr "%s hace"
+
+#: ../classes/class-aal-activity-log-list-table.php:145
+msgid "Unknown"
+msgstr "Desconocido"
+
+#: ../classes/class-aal-activity-log-list-table.php:151
+#: ../classes/class-aal-activity-log-list-table.php:229
+msgid "Guest"
+msgstr "Invitado"
+
+#: ../classes/class-aal-activity-log-list-table.php:240
+msgid "All Users"
+msgstr "Todos los usuarios"
+
+#: ../classes/class-aal-activity-log-list-table.php:267
+msgid "All Types"
+msgstr "Todos los tipos"
+
+#: ../classes/class-aal-activity-log-list-table.php:278
+msgid "All Time"
+msgstr "Todo el tiempo"
+
+#: ../classes/class-aal-activity-log-list-table.php:279
+msgid "Today"
+msgstr "Hoy"
+
+#: ../classes/class-aal-activity-log-list-table.php:280
+msgid "Yesterday"
+msgstr "Ayer"
+
+#: ../classes/class-aal-activity-log-list-table.php:281
+msgid "Week"
+msgstr "Semana"
+
+#: ../classes/class-aal-activity-log-list-table.php:282
+msgid "Month"
+msgstr "Mes"
+
+#: ../classes/class-aal-activity-log-list-table.php:289
+msgid "Filter"
+msgstr "Filtro"
+
+#: ../classes/class-aal-admin-ui.php:17 ../classes/class-aal-admin-ui.php:27
+msgid "Activity Log"
+msgstr "Actividad de sesión"
+
+#: ../classes/class-aal-settings.php:21
+msgid "GitHub"
+msgstr "GitHub"
+
+#: ../classes/class-aal-settings.php:24 ../classes/class-aal-settings.php:39
+msgid "Settings"
+msgstr "Configuraciónes"
+
+#: ../classes/class-aal-settings.php:38 ../classes/class-aal-settings.php:106
+msgid "Activity Log Settings"
+msgstr "Actividad de sesiones de Configuraciónes"
+
+#: ../classes/class-aal-settings.php:59
+msgid "Display Options"
+msgstr "Monitor de opciones"
+
+#: ../classes/class-aal-settings.php:66
+msgid "Keep logs for"
+msgstr "Mantener registros para"
+
+#: ../classes/class-aal-settings.php:75
+msgid "days."
+msgstr "dias."
+
+#: ../classes/class-aal-settings.php:76
+msgid ""
+"Maximum number of days to keep activity log. Leave blank to keep activity "
+"log forever (not recommended)."
+msgstr ""
+"Número máximo de días para mantener el registro de actividades. Dejar en blanco para mantener la actividad "
+"iniciar sesión para siempre (no recomendado)."
+
+#: ../classes/class-aal-settings.php:83
+msgid "Delete Log Activities"
+msgstr "Eliminar actividades de registro"
+
+#: ../classes/class-aal-settings.php:88
+#, php-format
+msgid "<a href=\"%s\" id=\"%s\">Reset Database</a>"
+msgstr "<a href=\"%s\" id=\"%s\">Resetar Base de datos</a>"
+
+#: ../classes/class-aal-settings.php:92
+msgid "Warning: Clicking this will delete all activities from the database."
+msgstr "Advertencia: Al hacer clic en esto se eliminarán todas las actividades de la base de datos."
+
+#: ../classes/class-aal-settings.php:124
+msgid "All activities have been successfully deleted."
+msgstr "Todas las actividades se han eliminado con éxito."
+
+#: ../classes/class-aal-settings.php:135
+msgid "Are you sure you want to do this action?"
+msgstr "¿Estás seguro de que quieres hacer esta acción?"
+
+#: ../classes/class-aal-settings.php:169
+msgid "These are some basic settings for Activity Log."
+msgstr "Estas son algunas configuraciones básicas para el registro de actividad."
+
+#: ../language/strings.php:2
+msgid "ARYO Activity Log"
+msgstr "ARYO Activity Log"
+
+#: ../language/strings.php:3
+msgid ""
+"Get aware of any activities that are taking place on your dashboard! Imagine "
+"it like a black-box for your WordPress site. e.g. post was deleted, plugin "
+"was activated, user logged in or logged out - it’s all these for you to see."
+msgstr ""
+"Conozca las actividades que se llevan a cabo en su panel de control! Imagina "
+"es como una caja negra para tu sitio de WordPress. p.ej. la publicación fue  "
+"eliminada, plugin se activó, el usuario inició sesión o se desconectó, Registra"
+"toda acción para que lo veas."
+
+#: ../language/strings.php:6
+msgid "Post"
+msgstr "Post"
+
+#: ../language/strings.php:7
+msgid "created"
+msgstr "creado"
+
+#: ../language/strings.php:8
+msgid "updated"
+msgstr "actualizado"
+
+#: ../language/strings.php:9
+msgid "deleted"
+msgstr "eliminado"
+
+#: ../language/strings.php:12
+msgid "Attachment"
+msgstr "Adjuntado"
+
+#: ../language/strings.php:13
+msgid "added"
+msgstr "añadido"
+
+#: ../language/strings.php:16
+msgid "User"
+msgstr "Usuario"
+
+#: ../language/strings.php:17
+msgid "logged_out"
+msgstr "desconectado"
+
+#: ../language/strings.php:18
+msgid "logged_in"
+msgstr "conectado"
+
+#: ../language/strings.php:19
+msgid "wrong_password"
+msgstr "contraseña incorrecta"
+
+#: ../language/strings.php:22
+msgid "Plugin"
+msgstr "Plugin"
+
+#: ../language/strings.php:23
+msgid "activated"
+msgstr "activado"
+
+#: ../language/strings.php:24
+msgid "deactivated"
+msgstr "desactivado"
+
+#: ../language/strings.php:27
+msgid "Theme"
+msgstr "Tema"
+
+#: ../language/strings.php:28
+msgid "Theme Customizer"
+msgstr "Personalizar Tema"
+
+#: ../language/strings.php:31
+msgid "Widget"
+msgstr "Widget"
+
+#: ../language/strings.php:34
+msgid "Options"
+msgstr "Opciones"
+
+#: ../language/strings.php:37
+msgid "Menu"
+msgstr "Menü"
+
+#: ../language/strings.php:40
+msgid "Taxonomy"
+msgstr "Taxonomia"
+
+#: ../language/strings.php:45
+msgid "blogname"
+msgstr "blogname"
+
+#: ../language/strings.php:46
+msgid "blogdescription"
+msgstr "blogdescription"
+
+#: ../language/strings.php:47
+msgid "siteurl"
+msgstr ""
+
+#: ../language/strings.php:48
+msgid "home"
+msgstr ""
+
+#: ../language/strings.php:49
+msgid "admin_email"
+msgstr ""
+
+#: ../language/strings.php:50
+msgid "users_can_register"
+msgstr ""
+
+#: ../language/strings.php:51
+msgid "default_role"
+msgstr ""
+
+#: ../language/strings.php:52
+msgid "timezone_string"
+msgstr ""
+
+#: ../language/strings.php:53
+msgid "date_format"
+msgstr ""
+
+#: ../language/strings.php:54
+msgid "time_format"
+msgstr ""
+
+#: ../language/strings.php:55
+msgid "start_of_week"
+msgstr ""
+
+#: ../language/strings.php:58
+msgid "use_smilies"
+msgstr ""
+
+#: ../language/strings.php:59
+msgid "use_balanceTags"
+msgstr ""
+
+#: ../language/strings.php:60
+msgid "default_category"
+msgstr ""
+
+#: ../language/strings.php:61
+msgid "default_post_format"
+msgstr ""
+
+#: ../language/strings.php:62
+msgid "mailserver_url"
+msgstr ""
+
+#: ../language/strings.php:63
+msgid "mailserver_login"
+msgstr ""
+
+#: ../language/strings.php:64
+msgid "mailserver_pass"
+msgstr ""
+
+#: ../language/strings.php:65
+msgid "default_email_category"
+msgstr ""
+
+#: ../language/strings.php:66
+msgid "ping_sites"
+msgstr ""
+
+#: ../language/strings.php:69
+msgid "show_on_front"
+msgstr ""
+
+#: ../language/strings.php:70
+msgid "page_on_front"
+msgstr ""
+
+#: ../language/strings.php:71
+msgid "page_for_posts"
+msgstr ""
+
+#: ../language/strings.php:72
+msgid "posts_per_page"
+msgstr ""
+
+#: ../language/strings.php:73
+msgid "posts_per_rss"
+msgstr ""
+
+#: ../language/strings.php:74
+msgid "rss_use_excerpt"
+msgstr ""
+
+#: ../language/strings.php:75
+msgid "blog_public"
+msgstr ""
+
+#: ../language/strings.php:78
+msgid "default_pingback_flag"
+msgstr ""
+
+#: ../language/strings.php:79
+msgid "default_ping_status"
+msgstr ""
+
+#: ../language/strings.php:80
+msgid "default_comment_status"
+msgstr ""
+
+#: ../language/strings.php:81
+msgid "require_name_email"
+msgstr ""
+
+#: ../language/strings.php:82
+msgid "comment_registration"
+msgstr ""
+
+#: ../language/strings.php:83
+msgid "close_comments_for_old_posts"
+msgstr ""
+
+#: ../language/strings.php:84
+msgid "close_comments_days_old"
+msgstr ""
+
+#: ../language/strings.php:85
+msgid "thread_comments"
+msgstr ""
+
+#: ../language/strings.php:86
+msgid "thread_comments_depth"
+msgstr ""
+
+#: ../language/strings.php:87
+msgid "page_comments"
+msgstr ""
+
+#: ../language/strings.php:88
+msgid "comments_per_page"
+msgstr ""
+
+#: ../language/strings.php:89
+msgid "default_comments_page"
+msgstr ""
+
+#: ../language/strings.php:90
+msgid "comment_order"
+msgstr ""
+
+#: ../language/strings.php:91
+msgid "comments_notify"
+msgstr ""
+
+#: ../language/strings.php:92
+msgid "moderation_notify"
+msgstr ""
+
+#: ../language/strings.php:93
+msgid "comment_moderation"
+msgstr ""
+
+#: ../language/strings.php:94
+msgid "comment_whitelist"
+msgstr ""
+
+#: ../language/strings.php:95
+msgid "comment_max_links"
+msgstr ""
+
+#: ../language/strings.php:96
+msgid "moderation_keys"
+msgstr ""
+
+#: ../language/strings.php:97
+msgid "blacklist_keys"
+msgstr ""
+
+#: ../language/strings.php:98
+msgid "show_avatars"
+msgstr ""
+
+#: ../language/strings.php:99
+msgid "avatar_rating"
+msgstr ""
+
+#: ../language/strings.php:100
+msgid "avatar_default"
+msgstr ""
+
+#: ../language/strings.php:103
+msgid "thumbnail_size_w"
+msgstr ""
+
+#: ../language/strings.php:104
+msgid "thumbnail_size_h"
+msgstr ""
+
+#: ../language/strings.php:105
+msgid "thumbnail_crop"
+msgstr ""
+
+#: ../language/strings.php:106
+msgid "medium_size_w"
+msgstr ""
+
+#: ../language/strings.php:107
+msgid "medium_size_h"
+msgstr ""
+
+#: ../language/strings.php:108
+msgid "large_size_w"
+msgstr ""
+
+#: ../language/strings.php:109
+msgid "large_size_h"
+msgstr ""
+
+#: ../language/strings.php:110
+msgid "uploads_use_yearmonth_folders"
+msgstr ""
+
+#: ../language/strings.php:113
+msgid "permalink_structure"
+msgstr ""
+
+#: ../language/strings.php:114
+msgid "category_base"
+msgstr ""
+
+#: ../language/strings.php:115
+msgid "tag_base"
+msgstr ""
